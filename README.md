@@ -21,7 +21,8 @@ Cross-platform 3D game developed for Android and PC
 - PC Build Tools
 
 ## 🖼️ Screenshots
-*(Add some game screenshots if available)*
+![WhatsApp Image 2025-06-17 at 9 13 04 PM](https://github.com/user-attachments/assets/dd79a1ea-5d35-4919-a942-4fc538d12950)
+
 
 ## 📥 Installation
 **Android:** Download APK and install manually on your device  
