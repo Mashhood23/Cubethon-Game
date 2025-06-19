@@ -34,6 +34,6 @@ https://github.com/user-attachments/assets/cec69603-d004-41e5-a135-2d5d8ec32382
 
 ## 📥 Installation
 **Android:** Download APK and install manually on your device  
-**PC:** Download the ZIP or `.exe` file and run
+**PC:** Download the `.exe` file and run
 
 ---
